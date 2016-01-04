@@ -75,6 +75,8 @@ Does this seem crazy?  Crazy awesome, maybe.
 
 ### Projects that use cljx
 
+[![Join the chat at https://gitter.im/imikushin/cljx](https://badges.gitter.im/imikushin/cljx.svg)](https://gitter.im/imikushin/cljx?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Here's some real-world examples
 of projects that use cljx (when you feel in trouble, refer to these for usage
 and configuration examples):
